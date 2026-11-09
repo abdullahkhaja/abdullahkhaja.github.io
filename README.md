@@ -1,5 +1,3 @@
-# Abdullah Khajamohideen
-
 Academic homepage for [abdullahkhaja.github.io](https://abdullahkhaja.github.io), based on [AcadHomepage](https://github.com/RayeRen/acad-homepage.github.io) (MIT License).
 
 ## Update
